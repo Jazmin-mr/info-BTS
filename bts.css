@@ -1,0 +1,70 @@
+header{
+    text-align: center;
+    width: 95vw;
+}
+
+.imagen{
+    background: #571E91;
+
+}
+
+h2{
+    font-size: xx-large;
+    font-variant: small-caps;
+}
+
+p{
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 20px;
+    font-style: normal;
+}
+.letra{
+    font-style: italic;
+    color: #a71717;
+}
+h3{
+    position: relative;
+    text-align: start;
+    text-transform:uppercase;
+    color: #571E91;
+    font-size: 25px;
+    font-weight:bold;
+}
+
+
+nav{
+    position: relative; 
+    top: 110px;
+    right: 20px;
+    text-align: right;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 20px;
+    text-align:center;
+}
+
+nav a{
+    text-transform:uppercase;
+    color: #000000;
+    font-weight: bolder;
+    font-size: 25px;
+    text-decoration: none;
+    text-decoration:underline;
+    
+}
+
+nav a:hover{
+    color: #320460da;
+}
+
+.cat {
+    height:200px
+    
+    }
+
+ img {
+    width: auto; 
+    max-height: 100%;   
+   }

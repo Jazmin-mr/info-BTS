@@ -1,0 +1,66 @@
+header{
+    background: #320460da;
+}
+.cat {
+    text-align: center;
+    padding: 30px;
+    height:300px
+    
+    }
+
+ img {
+    width: 700px; 
+    max-height: 100%;   
+   }
+
+   .titulo{
+    text-align: center;
+    text-decoration:overline;
+    text-transform: none;
+    font-size: xx-large;
+    font-weight: bolder;
+   }
+
+   nav li:hover{
+      color: #53075eda;
+   }
+
+    nav{
+    width: 95vw;
+    margin: 0 auto;
+    padding: 50px 0;
+   }
+
+   nav li{
+    display:inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    height: 500px;
+    margin: 10px;
+    box-shadow: 10px 10px 30px 15px #000000;
+   }
+
+   h2{
+    text-decoration:double;
+    text-transform:uppercase;
+   }
+
+   li :hover h2{
+      font-size: 40px;
+   }
+
+ .imgLista{
+    width:40px ;
+ }
+ .descripcion-integrante{
+    text-align: center;
+    text-transform: none;
+ }
+
+ 
